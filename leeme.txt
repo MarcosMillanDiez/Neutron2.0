@@ -1,0 +1,10 @@
+﻿Metodología de la Programación. Práctica Neutrón 2.0.
+
+Autores:
+Marcos Millán Díez
+Adrián Aguado García
+
+Comentarios: 
+Hemos creido conveniente asignarle el modificador de acceso protected alguno de nuestros 
+metodos privados para poder heredarlos, así como algún atributo. 
+
